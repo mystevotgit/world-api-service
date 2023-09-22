@@ -52,6 +52,7 @@ To use World API Service, follow these guidelines:
 
 - Visit the project's web interface at http://localhost:8080/swagger-ui.html#/ for interactive access to API endpoints.
 - Utilize the API endpoints programmatically by sending HTTP requests to the relevant endpoints.
+- Use tools like Postman.
 
 ## API Endpoints
 
@@ -103,4 +104,4 @@ World API Service is built using the following technologies and frameworks:
 - Countries & Cities API
 
 ## Acknowledgments
-It important to acknowledge this project was built by integrating with Countries & Cities API.
+It important to acknowledge that this project was built by integrating with Countries & Cities API.
